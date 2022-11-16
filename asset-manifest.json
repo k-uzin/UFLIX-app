@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UFLIX-app/static/css/main.de0c9357.css",
+    "main.js": "/UFLIX-app/static/js/main.e0dec588.js",
+    "index.html": "/UFLIX-app/index.html",
+    "main.de0c9357.css.map": "/UFLIX-app/static/css/main.de0c9357.css.map",
+    "main.e0dec588.js.map": "/UFLIX-app/static/js/main.e0dec588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de0c9357.css",
+    "static/js/main.e0dec588.js"
+  ]
+}
